@@ -1,0 +1,8 @@
+*.exe
+*.out
+socket_main
+socket_demo
+socket.main
+scoket.main
+fd_demo
+read_demo
